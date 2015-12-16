@@ -9,9 +9,9 @@
 
 ## Dependencies ##
 In order build the website and develop it locally you need 
-    * Git
-    * Node.js
-    * hexo-cli (via NPM)
+  * Git
+  * Node.js
+  * hexo-cli (via NPM)
 
 ## Installation ##
 1. First fork the repository into your own profile. 
