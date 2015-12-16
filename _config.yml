@@ -70,5 +70,5 @@ theme: tranquilpeak
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/theRiddler91/udaciouspeople.github.io.git
+  repo: https://github.com/udaciouspeople/udaciouspeople.github.io.git
   message: Site updated- {{ now("YYYY-MM-DD HH:mm:ss") }}
