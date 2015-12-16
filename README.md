@@ -52,5 +52,5 @@ tags:
 ---
 [Your article goes here]
 ```
-All images must be placed in /themes/tranquilpeak/source/assets/images/
+All images must be placed in a new folder with the title name 'title-other-stuff' to the folder sources/_post/title-other-stuff/ for you to have a thumbnail and cover image. [Here](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/issues/135) is a bug report where Louis Barranqueiro (the author of the theme) explains what to do about your images. 
 You can also view a sample in source/_post/hello-world.md or view configuration details from the theme creater [here](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md)
