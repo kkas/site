@@ -53,4 +53,4 @@ tags:
 [Your article goes here]
 ```
 All images must be placed in /themes/tranquilpeak/source/assets/images/
-You can also view a sample in source/_post/hello-world.md
+You can also view a sample in source/_post/hello-world.md or view configuration details from the theme creater [here](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md)
