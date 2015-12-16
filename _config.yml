@@ -13,7 +13,7 @@ timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://udaciouspeople.github.io
+url: https://udaciouspeople.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -70,5 +70,5 @@ theme: tranquilpeak
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/theRiddler91/udaciouspeople.github.io.git
+  repo: https://github.com/udaciouspeople/udaciouspeople.github.io.git
   message: Site updated- {{ now("YYYY-MM-DD HH:mm:ss") }}
