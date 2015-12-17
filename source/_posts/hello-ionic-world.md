@@ -13,6 +13,7 @@ tags:
   - Ionic
 date: 2015-12-16 17:41:04
 coverImage: Ionic_Logo.png
+thumbnailImage: Ionic_Logo_thumbnail.png
 ---
 
 First of all, I am interested in learning Javascript. After some researches, I found that Node.js and Ionic are interesting for me to learn Javascript. So, I decided to learn them by doing a little by little.
